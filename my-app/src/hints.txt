@@ -1,0 +1,2 @@
+Replace class with className
+import photos "import logo from '/logo.png", "import searchIcon from './searchIcon.png', then remove references from css file
