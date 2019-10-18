@@ -1,8 +1,58 @@
-body {
-    background-color: lightblue;
+.invisible-background-color {
+
+    background-color: white;
+    opacity: 0;
+
 }
 
-h1 {
-    color: navy;
-    margin-left: 20px;
+
+
+.ui.borderless.socialmedia.menu {
+
+    box-shadow: none;
+
+    border: none;
+
+    border-radius: 0px;
+
+    margin: 0px;
+
+    background-color: orchid;
+
 }
+
+
+
+.ui.borderless.topmenu.menu {
+
+    box-shadow: none;
+
+    border: none;
+
+    border-radius: 0px;
+
+    margin: 0px;
+
+    padding-top: 20px;
+
+    padding-bottom: 20px;
+
+
+}
+
+
+
+.ui.icon.menu .item {
+
+    color: white;
+
+}
+
+
+
+.background {
+
+    background-size: cover;
+
+}
+
